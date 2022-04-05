@@ -14,7 +14,7 @@
                 </a>
                 <a href="https://www.instagram.com/siberyavuzlar/">
                     <img class="footer-img me-xl-5 me-3" src="/public/assets/img/gallery/instagram-line1.svg" alt="instragram" style="width:20px;height:20px;" />
-                </a>
+                </a> 
             </div>
        
             <div class="col-xl-5 pt-2 pt-xl-0 text-center text-xl-end">
